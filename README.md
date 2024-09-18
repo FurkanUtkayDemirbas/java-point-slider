@@ -27,7 +27,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
 1. Projeyi yerel makinenize klonlayın:
 
 ```bash
-$ git clone https://github.com/kullaniciadi/not-girme-gui.git
+$ https://github.com/FurkanUtkayDemirbas/java-point-slider.git
 
 ```
 
